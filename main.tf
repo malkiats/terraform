@@ -6,5 +6,5 @@ provider "aws" {
 
 resource "aws_instance" "jenkins" {
     ami = ""
-    instance_type = "ansh"
+    instance_type = "ami-0b1e534a4ff9019e0"
 }
