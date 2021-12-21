@@ -18,6 +18,11 @@ provider "aws" {
 
 # Resource
 resource "aws_instance" "jenkins" {
-    ami = "ami-0dc5785603ad4ff54"
+    ami = "ami-0dc5785603ad4ff54" //AWS Linux
     instance_type = "t2.micro"
 }
+
+/*
+Multi-line
+comments
+*/
