@@ -3,3 +3,4 @@ terraform validate      #validate terraform config files
 terraform plan          #Execute plan desired state
 terraform apply         #apply changes required
 terraform destroy       #destroy infra
+terraform apply -auto-approve   #Auto Approve
