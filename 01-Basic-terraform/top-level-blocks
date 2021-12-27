@@ -1,4 +1,6 @@
-Teraform Settings Block
+Top-level block - That can appear outside of any other block.  
+
+Teraform Settings Block 
 Provider Block
 Resource Block
 Input Variabels Block
