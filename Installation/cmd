@@ -4,3 +4,8 @@ terraform plan          #Execute plan desired state
 terraform apply         #apply changes required
 terraform destroy       #destroy infra
 terraform apply -auto-approve   #Auto Approve
+
+
+Terraform CLI > terraform init > terraform registory > 
+download provider > terraform validate / terraform plan > 
+terraform apply > Communicate with AWS APIs > Provision respective infra on cloud
